@@ -6948,3 +6948,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 23:42:04.868] [Worker-Main-33/DEBUG] [mixin/]: Mixing marble_caves.AquiferMixin from yungscavebiomes.mixins.json into net.minecraft.world.level.levelgen.Aquifer$NoiseBasedAquifer
 [04Aug2025 23:42:09.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
 [04Aug2025 23:42:21.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 has made the advancement [Minecraft Comes Alive]
+[04Aug2025 23:42:34.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9924ms or 198 ticks behind
+[04Aug2025 23:42:45.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 has made the advancement [Sweet Dreams]
+[04Aug2025 23:42:56.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7109ms or 142 ticks behind
+[04Aug2025 23:43:06.566] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[04Aug2025 23:43:06.568] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[04Aug2025 23:43:19.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7552ms or 151 ticks behind
+[04Aug2025 23:43:40.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6410ms or 128 ticks behind
+[04Aug2025 23:43:50.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 has made the advancement [Best Friends Forever]
+[04Aug2025 23:45:53.468] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[04Aug2025 23:46:02.368] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Manually checking for Seasonal Event rewards and clearing inactive events from the reward cache
+[04Aug2025 23:46:02.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mata Tiru Tiru La
+[04Aug2025 23:46:02.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mata Tiru Tiru La
+[04Aug2025 23:50:39.468] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[04Aug2025 23:50:40.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 has made the advancement [Stone Age]
+[04Aug2025 23:51:02.368] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Manually checking for Seasonal Event rewards and clearing inactive events from the reward cache
+[04Aug2025 23:51:02.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mata Tiru Tiru La
+[04Aug2025 23:51:02.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mata Tiru Tiru La
+[04Aug2025 23:52:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DiegoCompa3 no longer a server operator
+[04Aug2025 23:52:29.479] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end

@@ -2611,3 +2611,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 23:41:51.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [leave] for DiegoCompa3 to 0]
 [04Aug2025 23:42:09.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
 [04Aug2025 23:42:21.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 has made the advancement [Minecraft Comes Alive]
+[04Aug2025 23:42:34.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9924ms or 198 ticks behind
+[04Aug2025 23:42:45.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 has made the advancement [Sweet Dreams]
+[04Aug2025 23:42:56.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7109ms or 142 ticks behind
+[04Aug2025 23:43:19.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7552ms or 151 ticks behind
+[04Aug2025 23:43:40.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6410ms or 128 ticks behind
+[04Aug2025 23:43:50.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 has made the advancement [Best Friends Forever]
+[04Aug2025 23:50:40.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 has made the advancement [Stone Age]
+[04Aug2025 23:52:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DiegoCompa3 no longer a server operator
