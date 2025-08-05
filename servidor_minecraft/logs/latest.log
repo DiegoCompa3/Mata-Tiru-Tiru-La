@@ -2619,3 +2619,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 23:43:50.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 has made the advancement [Best Friends Forever]
 [04Aug2025 23:50:40.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 has made the advancement [Stone Age]
 [04Aug2025 23:52:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DiegoCompa3 no longer a server operator
+[04Aug2025 23:57:18.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DiegoCompa3 a server operator
+[04Aug2025 23:57:38.857] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
