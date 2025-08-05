@@ -1358,3 +1358,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 13:40:27.650] [Server thread/INFO] [Jade/]: Syncing config to DiegoCompa3 (2dc1d7fe-3bba-3e73-a2f5-15285bbe6842)
 [05Aug2025 13:40:29.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
 [05Aug2025 13:40:53.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Aug2025 14:01:17.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 has made the advancement [Hot Stuff]
