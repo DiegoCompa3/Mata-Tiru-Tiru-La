@@ -2637,21 +2637,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "has_raw_aluminum": "2025-08-05 13:53:21 +0000"
+      "has_the_recipe": "2025-08-05 13:48:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-05 13:51:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-08-05 14:01:17 +0000"
     },
     "done": true
   },
@@ -2670,12 +2664,6 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-05 13:51:58 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
-    "criteria": {
-      "has_raw_aluminum": "2025-08-05 13:53:21 +0000"
     },
     "done": true
   },
@@ -2709,12 +2697,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
-    "criteria": {
-      "has_raw_block_aluminum": "2025-08-05 13:53:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-08-05 13:51:58 +0000"
@@ -2724,12 +2706,6 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-05 13:51:58 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
-    "criteria": {
-      "has_raw_aluminum": "2025-08-05 13:53:21 +0000"
     },
     "done": true
   },
@@ -2787,12 +2763,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_the_recipe": "2025-08-05 13:48:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-05 13:51:58 +0000"
@@ -2811,15 +2781,99 @@
     },
     "done": true
   },
+  "extendedslabs:recipes/building_blocks/vertical_gravel_slab": {
+    "criteria": {
+      "has_item": "2025-08-05 13:51:58 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-08-05 13:53:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-08-05 13:53:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
+    "criteria": {
+      "has_raw_block_aluminum": "2025-08-05 13:53:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-08-05 13:53:21 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/jerrycan": {
     "criteria": {
       "has_bucket": "2025-08-05 14:01:10 +0000"
     },
     "done": true
   },
-  "extendedslabs:recipes/building_blocks/vertical_gravel_slab": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_item": "2025-08-05 13:51:58 +0000"
+      "lava_bucket": "2025-08-05 14:01:17 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_button": {
+    "criteria": {
+      "has_planks": "2025-08-05 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_sign": {
+    "criteria": {
+      "has_planks": "2025-08-05 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_slab": {
+    "criteria": {
+      "has_planks": "2025-08-05 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_door": {
+    "criteria": {
+      "has_planks": "2025-08-05 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-05 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-05 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-05 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-05 14:13:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_fence": {
+    "criteria": {
+      "has_planks": "2025-08-05 14:13:35 +0000"
     },
     "done": true
   },
