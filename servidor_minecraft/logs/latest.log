@@ -1516,3 +1516,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 01:17:36.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=383, y=81, z=18} BlockPos{x=383, y=81, z=17}
 [14Aug2025 01:43:18.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiegoCompa3 lost connection: Disconnected
 [14Aug2025 01:43:18.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 left the game
+[14Aug2025 01:43:58.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Aug2025 01:43:58.643] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[14Aug2025 01:43:58.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Aug2025 01:43:58.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Aug2025 01:43:58.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Aug2025 01:43:59.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mata Tiru Tiru La]'/minecraft:overworld
+[14Aug2025 01:43:59.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mata Tiru Tiru La]'/minecraft:the_end
+[14Aug2025 01:43:59.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mata Tiru Tiru La]'/minecraft:the_nether
+[14Aug2025 01:43:59.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Mata Tiru Tiru La): All chunks are saved
+[14Aug2025 01:43:59.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Aug2025 01:43:59.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Aug2025 01:43:59.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Aug2025 01:43:59.984] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14Aug2025 01:43:59.987] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[14Aug2025 01:43:59.994] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[14Aug2025 01:44:00.002] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
