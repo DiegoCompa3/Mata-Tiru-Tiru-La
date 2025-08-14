@@ -1514,3 +1514,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 01:14:42.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RodrigoPagra lost connection: Disconnected
 [14Aug2025 01:14:42.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RodrigoPagra left the game
 [14Aug2025 01:17:36.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=383, y=81, z=18} BlockPos{x=383, y=81, z=17}
+[14Aug2025 01:43:18.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiegoCompa3 lost connection: Disconnected
+[14Aug2025 01:43:18.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 left the game
