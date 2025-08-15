@@ -8,4 +8,4 @@
 # Uncomment the next line to set it.
 
 -Xms2G
--Xmx6G
+-Xmx8G
