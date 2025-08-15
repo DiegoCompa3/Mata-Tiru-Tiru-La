@@ -2334,3 +2334,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Aug2025 15:07:10.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [15Aug2025 15:14:58.116] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
 [15Aug2025 15:15:45.181] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[15Aug2025 15:29:41.368] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[15Aug2025 15:29:56.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiegoCompa3 lost connection: Disconnected
+[15Aug2025 15:29:56.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 left the game
+[15Aug2025 15:30:11.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Aug2025 15:30:11.512] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[15Aug2025 15:30:11.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Aug2025 15:30:11.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Aug2025 15:30:11.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Aug2025 15:30:12.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mata Tiru Tiru La]'/minecraft:overworld
+[15Aug2025 15:30:12.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mata Tiru Tiru La]'/minecraft:the_end
+[15Aug2025 15:30:12.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mata Tiru Tiru La]'/minecraft:the_nether
+[15Aug2025 15:30:13.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Mata Tiru Tiru La): All chunks are saved
+[15Aug2025 15:30:13.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Aug2025 15:30:13.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Aug2025 15:30:13.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Aug2025 15:30:13.062] [Server thread/INFO] [Framework/]: Unloading server configs...
+[15Aug2025 15:30:13.065] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[15Aug2025 15:30:13.073] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[15Aug2025 15:30:13.077] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
