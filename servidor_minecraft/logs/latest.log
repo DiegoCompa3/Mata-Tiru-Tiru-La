@@ -1335,3 +1335,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Aug2025 04:36:06.106] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loaded NextID (1) from tag.
 [15Aug2025 04:36:06.427] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 radiator, missing knowledge for {1 water_bucket=0.25}
 [15Aug2025 04:36:06.430] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 229 milliseconds
+[15Aug2025 04:54:50.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiegoCompa3[/127.110.109.178:56797] logged in with entity id 503 at (354.25540986129414, 74.0, 50.430161495783935)
+[15Aug2025 04:54:50.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DiegoCompa3 joined the game
+[15Aug2025 04:54:51.054] [Netty Epoll Server IO #0/INFO] [immersiveengineering/]: Recipes for potions: minecraft:awkward, minecraft:strong_leaping, alexsmobs:long_lava_vision, alexsmobs:long_clinging, minecraft:strong_regeneration, minecraft:fire_resistance, minecraft:long_poison, minecraft:long_fire_resistance, minecraft:long_swiftness, minecraft:long_invisibility, alexsmobs:speed_iii, minecraft:strong_healing, minecraft:strong_strength, minecraft:night_vision, minecraft:long_weakness, tombstone:spectral, alexsmobs:long_soulsteal, minecraft:turtle_master, minecraft:long_strength, minecraft:long_water_breathing, minecraft:long_slowness, minecraft:poison, minecraft:strong_harming, alexsmobs:strong_knockback_resistance, minecraft:long_slow_falling, minecraft:leaping, minecraft:slow_falling, alexsmobs:bug_pheromones, minecraft:water, minecraft:long_leaping, minecraft:water_breathing, alexsmobs:strong_soulsteal, minecraft:long_regeneration, minecraft:swiftness, alexsmobs:poison_resistance, minecraft:weakness, minecraft:invisibility, alexsmobs:long_bug_pheromones, minecraft:healing, minecraft:harming, minecraft:long_turtle_master, alexsmobs:knockback_resistance, alexsmobs:long_knockback_resistance, minecraft:long_night_vision, minecraft:strong_slowness, minecraft:slowness, minecraft:strong_poison, alexsmobs:clinging, alexsmobs:lava_vision, minecraft:strong_swiftness, minecraft:strong_turtle_master, minecraft:strength, minecraft:regeneration, alexsmobs:long_poison_resistance, alexsmobs:soulsteal
+[15Aug2025 04:54:51.433] [Server thread/INFO] [Jade/]: Syncing config to DiegoCompa3 (2dc1d7fe-3bba-3e73-a2f5-15285bbe6842)
+[15Aug2025 04:54:51.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DiegoCompa3: Showing new subtitle for DiegoCompa3]
+[15Aug2025 04:54:51.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Showing new title for DiegoCompa3]
+[15Aug2025 04:54:51.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:entity.player.levelup to DiegoCompa3]
+[15Aug2025 04:54:51.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [leave] for DiegoCompa3 to 0]
+[15Aug2025 04:54:54.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3592ms or 71 ticks behind
+[15Aug2025 04:55:07.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DiegoCompa3> y
+[15Aug2025 05:03:37.509] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[15Aug2025 05:03:37.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Aug2025 05:03:37.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Aug2025 05:03:37.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Aug2025 05:03:38.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mata Tiru Tiru La]'/minecraft:overworld
+[15Aug2025 05:03:41.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mata Tiru Tiru La]'/minecraft:the_end
+[15Aug2025 05:03:41.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mata Tiru Tiru La]'/minecraft:the_nether
+[15Aug2025 05:03:41.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Mata Tiru Tiru La): All chunks are saved
+[15Aug2025 05:03:41.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Aug2025 05:03:41.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Aug2025 05:03:41.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Aug2025 05:03:41.358] [Server thread/INFO] [Framework/]: Unloading server configs...
+[15Aug2025 05:03:41.360] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[15Aug2025 05:03:41.363] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[15Aug2025 05:03:41.367] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
